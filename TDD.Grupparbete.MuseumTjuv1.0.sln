@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD.Grupparbete.MuseumTjuv1.0", "TDD.Grupparbete.MuseumTjuv1.0\TDD.Grupparbete.MuseumTjuv1.0.csproj", "{04475130-6FC7-4C12-9949-839FE88C4351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumTjuvTest", "MuseumTjuvTest\MuseumTjuvTest.csproj", "{0C9947D7-6CC2-48BE-AEB0-FCE691EFD17B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumTjuvTest1", "MuseumTjuvTest1\MuseumTjuvTest1.csproj", "{C636C808-4F0E-494B-AE4A-F3756D2F0654}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{04475130-6FC7-4C12-9949-839FE88C4351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04475130-6FC7-4C12-9949-839FE88C4351}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04475130-6FC7-4C12-9949-839FE88C4351}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0C9947D7-6CC2-48BE-AEB0-FCE691EFD17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C9947D7-6CC2-48BE-AEB0-FCE691EFD17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C9947D7-6CC2-48BE-AEB0-FCE691EFD17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C9947D7-6CC2-48BE-AEB0-FCE691EFD17B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C636C808-4F0E-494B-AE4A-F3756D2F0654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C636C808-4F0E-494B-AE4A-F3756D2F0654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C636C808-4F0E-494B-AE4A-F3756D2F0654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C636C808-4F0E-494B-AE4A-F3756D2F0654}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

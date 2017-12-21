@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using TDD.Grupparbete.MuseumTjuv1._0;
 
 namespace MuseumTjuvTest
 {
@@ -7,8 +8,11 @@ namespace MuseumTjuvTest
     public class MuseumTjuvTester
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestGame()
         {
+            //Arrange
+            Game game = new Game();
+            Game.
         }
     }
 }

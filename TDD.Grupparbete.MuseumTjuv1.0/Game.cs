@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace TDD.Grupparbete.MuseumTjuv1._0
 {
-    class Game
+    public class Game
     {
-        public void Gameboard()
-        {
-            int[,] gameboard = new int[,] 
+        public int[,] gameboard = new int[,]
             {
                 {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1 },
                 {1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 },
@@ -38,6 +36,9 @@ namespace TDD.Grupparbete.MuseumTjuv1._0
                 {1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 },
                 {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1 }
             };
+        public void Gameboard()
+        {
+            
         }
     }
 }
