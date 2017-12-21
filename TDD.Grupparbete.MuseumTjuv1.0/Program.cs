@@ -12,7 +12,7 @@ namespace TDD.Grupparbete.MuseumTjuv1._0
         {
             string green = "Funkar!";
             Console.WriteLine("Git-Test: ", green);
-
+            Game game = new Game();
 
         }
     }

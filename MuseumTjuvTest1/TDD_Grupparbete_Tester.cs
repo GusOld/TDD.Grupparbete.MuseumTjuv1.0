@@ -11,20 +11,22 @@ namespace MuseumTjuvTest1
     [TestFixture]
     public class TDD_Grupparbete_Tester
     {
+        /*
         [Test]
-        public void GameTest()
+        public void WhenGameboardPos_Equals1([Range(0,24)] int X)
         {
             //Arrange
-            int posXY = 1;
+            int posXY = 1; 
 
             //Act
-
             Game game = new Game();
-            int output = game.gameboard[0, 0];
+            int output = game.gameboard[0, X];
 
             //Assert
             Assert.AreEqual(posXY, output);
             
         }
+        */
+        
     }
 }
